@@ -1,13 +1,18 @@
 body {
-  background-color: powderblue;
+  background-color: mediumvioletred;
 }
 
 h1 {
   padding: 35px;
   text-align: center;
-  background-color: snow;
+  background-color: orchid;
 }
 
 h2, h3 {
   text-align: center;
+}
+
+p {
+  max-width: 60%; /* paragraph never gets wider than 60% of the screen */
+margin: 0 auto; /* centers it horizontally */ 
 }
