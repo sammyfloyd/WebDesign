@@ -1,19 +1,20 @@
 body {
-  background-color:#FF9C2B;
+  background-color: orange;
 }
 
 h1 {
   padding: 35px;
   text-align: center;
-  background-color:#CA1D1D;
+  background-color: rgb(192, 39, 39);
 }
 
 h2, h3 {
   text-align: center;
-  background-color:white;
+  background-color:#ffffff;
 }
 
 p {
   max-width: 60%; /* paragraph never gets wider than 60% of the screen */
 margin: 0 auto; /* centers it horizontally */ 
+  background-color:white;
 }
