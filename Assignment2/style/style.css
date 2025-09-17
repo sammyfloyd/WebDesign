@@ -5,7 +5,6 @@ body {
 nav {
   font-family: Georgia, serif;
   background-color: #ffffff;
-  padding: 5px;
 }
 
 li {
@@ -53,7 +52,12 @@ h2 {
   background-color: #c02727;
 } 
 
-h3, h4 {
+h3 {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+h4 {
   max-width: 100%;
   margin: 0 auto;
   background-color:#ffffff;
