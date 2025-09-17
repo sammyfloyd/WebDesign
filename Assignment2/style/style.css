@@ -6,6 +6,7 @@ nav {
   font-family: Georgia, serif;
   max-width: 100%;
   margin: 0 auto;
+  text-align: center;
 }
 
 li {
@@ -58,11 +59,13 @@ h3 {
   max-width: 100%;
   margin: 0 auto;
   padding: 20px;
+  text-align: center;
 }
 
 h4 {
   max-width: 100%;
   margin: 0 auto;
+  text-align: center;
   background-color:#ffffff;
   padding: 20px;
 }
@@ -70,7 +73,7 @@ h4 {
 p {
   max-width: 60%; 
   margin: 0 auto; 
-  padding: 20px;
+  padding: 30px;
 }
 
 footer {
