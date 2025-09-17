@@ -6,13 +6,13 @@ nav {
   max-width: 100%;
   margin: 0 auto;
   padding: 10px;
-  display: inline-block;
   font-family: Georgia, serif;
 }
 
 li {
   list-style-image: url('../images/Video Game Controller Icon.png');
   color: #0a0a4b;
+  display: inline-block;
   max-width: 100%;
   margin: 0 auto;
   text-align: center;
@@ -60,4 +60,5 @@ footer {
   max-width: 60%; 
   margin: 0 auto; 
   text-align: center;
+  padding: 40px;
 }
