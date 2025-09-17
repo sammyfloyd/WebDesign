@@ -35,7 +35,7 @@ div {
 header {
   max-width: 100%;
   margin: 0 auto;
-  padding: 15px;
+  padding: 10px;
   text-align: center;
   background-color: #ffffff;
   border: 7px solid #000000;
@@ -56,20 +56,20 @@ h2 {
 h3 {
   max-width: 100%;
   margin: 0 auto;
-  padding: 10px;
+  padding: 20px;
 }
 
 h4 {
   max-width: 100%;
   margin: 0 auto;
   background-color:#ffffff;
-  padding: 5px;
+  padding: 20px;
 }
 
 p {
   max-width: 60%; 
   margin: 0 auto; 
-  padding: 5px;
+  padding: 20px;
 }
 
 footer {
