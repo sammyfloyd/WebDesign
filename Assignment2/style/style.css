@@ -4,7 +4,8 @@ body {
 
 nav {
   font-family: Georgia, serif;
-  background-color: #ffffff;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 li {
@@ -34,7 +35,7 @@ div {
 header {
   max-width: 100%;
   margin: 0 auto;
-  padding: 20px;
+  padding: 15px;
   text-align: center;
   background-color: #ffffff;
   border: 5px solid #000000;
