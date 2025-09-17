@@ -6,7 +6,6 @@ nav {
   font-family: Georgia, serif;
   max-width: 100%;
   margin: 0 auto;
-  text-align: center;
 }
 
 li {
@@ -15,7 +14,6 @@ li {
   display: inline-block;
   max-width: 100%;
   margin: 0 auto;
-  text-align: center;
 }
 
 img {
@@ -38,7 +36,6 @@ header {
   max-width: 100%;
   margin: 0 auto;
   padding: 10px;
-  text-align: center;
   background-color: #ffffff;
   border: 7px solid #000000;
 }
@@ -46,7 +43,6 @@ header {
 h1 {
   padding: 35px;
   font-weight: bold;
-  text-align: center;
   background-color: #c02727;
 }
 
@@ -59,13 +55,11 @@ h3 {
   max-width: 100%;
   margin: 0 auto;
   padding: 20px;
-  text-align: center;
 }
 
 h4 {
   max-width: 100%;
   margin: 0 auto;
-  text-align: center;
   background-color:#ffffff;
   padding: 20px;
 }
