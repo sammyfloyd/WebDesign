@@ -30,6 +30,7 @@ div {
   margin: 0 auto;
   background-color:#ffffff;
   border: 7px solid #000000;
+  padding: 20px;
 }
 
 header {
