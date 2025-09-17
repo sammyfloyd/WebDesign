@@ -7,6 +7,8 @@ nav {
   margin: 0 auto;
   text-align: center;
   font-family: Georgia, serif;
+  background-color: #ffffff;
+  padding: 5px;
 }
 
 li {
