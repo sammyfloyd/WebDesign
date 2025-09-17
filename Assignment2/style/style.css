@@ -3,16 +3,13 @@ body {
 }
 
 nav {
-  max-width: 100%;
-  margin: 0 auto;
-  text-align: center;
   font-family: Georgia, serif;
   background-color: #ffffff;
   padding: 5px;
 }
 
 li {
-  list-style-image: url('../images/Video Game Controller Icon.png');
+  list-style-type: none;
   color: #0a0a4b;
   display: inline-block;
   max-width: 100%;
