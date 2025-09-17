@@ -11,13 +11,9 @@ li {
   list-style-type: none;
   color: #0a0a4b;
   display: inline-block;
-  max-width: 100%;
-  margin: 0 auto;
 }
 
 img {
-  max-width: 100%;
-  margin: 0 auto;
   padding: 20px;
   background-color: #ffffff;
   border: 7px solid #000000;
