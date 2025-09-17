@@ -1,21 +1,29 @@
 body {
-  background-color: rgb(255, 188, 62);
+  background-color: #ffbc3e;
+}
+
+nav {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
 }
 
 li {
   list-style-image: url('../images/Video Game Controller Icon.png');
-  color: rgb(10, 10, 75);
+  color: #0a0a4b;
   display: inline-block;
   font-family: Georgia, serif;
   max-width: 100%;
   margin: 0 auto;
+  text-align: center;
 }
 
 img {
   max-width: 100%;
   margin: 0 auto;
   padding: 20px;
-  background-color: white;
+  background-color: #ffffff;
 }
 
 div {
@@ -30,7 +38,7 @@ header {
   margin: 0 auto;
   padding: 20px;
   text-align: center;
-  background-color: white;
+  background-color: #ffffff;
 }
 
 h1 {
@@ -39,18 +47,26 @@ h1 {
   padding: 35px;
   font-weight: bold;
   text-align: center;
-  background-color: rgb(192, 39, 39);
+  background-color: #c02727;
 }
 
 h2 {
   max-width: 100%;
   margin: 0 auto;
   text-align: center;
-  background-color: rgb(192, 39, 39);
+  background-color: #c02727;
 } 
 
 p {
   max-width: 60%; 
   margin: 0 auto; 
-  background-color:white;
+  text-align: center;
+  background-color:#ffffff;
+}
+
+footer {
+  color: #000000;
+  max-width: 60%; 
+  margin: 0 auto; 
+  text-align: center;
 }
