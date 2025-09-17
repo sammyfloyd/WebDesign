@@ -53,6 +53,12 @@ h2 {
   background-color: #c02727;
 } 
 
+h3, h4 {
+  max-width: 100%;
+  margin: 0 auto;
+  background-color:#ffffff;
+}
+
 p {
   max-width: 60%; 
   margin: 0 auto; 
