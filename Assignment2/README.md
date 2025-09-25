@@ -1,1 +1,3 @@
-So far, so good. _____
+So far, so good! I haven't been struggling too much and I do feel like I can keep up pretty well each week. The only issues I've had are just some very small ones, for example, I couldn't seem to get the link icons to work when I was messing around with them, they just wouldn't show up at all so I didn't add the little coin icons. Another thing I was struggling with was figuring out some of the centering, the images in the chapter summaries tab are centered just fine but I cannot seem to figure out why the cover art on the book summary tab isn't, because they appear the same to me. The last thing is that I just wonder how to add space between each link at the top and also the boxes surrounding the paragraph text. 
+
+Other than these small things, everything has been going pretty well, this module wasn't too bad, even if I struggled a bit, it was just because there were formatting issues in my code that I needed to fix.
