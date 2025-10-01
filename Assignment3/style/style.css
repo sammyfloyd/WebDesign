@@ -1,0 +1,123 @@
+body {
+  background-color: #ffbc3e;
+}
+
+nav {
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  color: #0a0a4b;
+  display: inline-block;
+}
+
+img {
+  padding: 20px;
+  background-color: #ffffff;
+  border: 7px solid #000000;
+}
+
+div {
+  text-align: center;
+  background-color:#ffffff;
+  border: 7px solid #000000;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 7px solid #000000;
+}
+
+h1 {
+  padding: 35px;
+  font-weight: bold;
+  background-color: #c02727;
+}
+
+h2 {
+  text-align: center;
+  background-color: #c02727;
+} 
+
+h3 {
+  text-align: center;
+  padding: 20px;
+}
+
+h4 {
+  text-align: center;
+  background-color:#ffffff;
+  padding: 20px;
+}
+
+p {
+  max-width: 60%; 
+  margin: 0 auto; 
+  padding: 30px;
+}
+
+footer {
+  max-width: 60%; 
+  margin: 0 auto; 
+  text-align: center;
+  padding: 40px;
+}
+
+form {
+  background-color: #f9f7f1;
+  padding: 20px;
+  border-radius: 10px; 
+  border: 1px solid #ccc; 
+  width: 75%; 
+  margin: 0 auto; 
+}
+
+fieldset {
+  border: none;
+  padding: 0;
+}
+
+legend {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+label {
+  display: block; 
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+input[type="text"],
+    input[type="email"],
+    select {
+        width: 100%;
+        margin: 0 auto;
+        padding: 8px;
+        margin-top: 5px;
+        font-size: 1rem;
+        border: 1px solid #aaa;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+
+button {
+  margin-top: 20px;
+  background-color: #5a3e36;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #7a564f;
+}
