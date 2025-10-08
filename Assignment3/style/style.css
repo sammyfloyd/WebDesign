@@ -19,6 +19,10 @@ img {
   border: 7px solid #000000;
 }
 
+video {
+        width: 70%;
+    }
+
 .chapter {
   text-align: center;
   background-color:#ffffff;
