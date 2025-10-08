@@ -7,10 +7,14 @@ nav {
   text-align: center;
 }
 
-#cites {
+.cites {
   list-style-type: none;
   color: #0a0a4b;
   display: inline-block;
+}
+
+li {
+  text-align: center;
 }
 
 img {
