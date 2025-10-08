@@ -9,11 +9,13 @@ nav {
 
 .pages {
   list-style-type: none;
-  color: #0a0a4b;
   display: inline-block;
+  margin: 0 10px;
+  padding: 5px 10px;
+  color: #0a0a4b;
 }
 
-li {
+.works {
   text-align: center;
   list-style-type: none;
 }
@@ -25,7 +27,7 @@ img {
 }
 
 video {
-  width: 70%;
+  width: 100%;
   margin: 0 auto;
   padding: 20px;
   background-color: #ffffff;
@@ -43,8 +45,6 @@ header {
   max-width: 50%; 
   margin: 0 auto;
   font-family: "Luckiest Guy", cursive;
-  text-shadow:#df7a1c;
-  text-shadow: 20px;
   text-align: center;
   padding: 10px;
   background-color: #ffffff;
@@ -55,12 +55,16 @@ h1 {
   padding: 35px;
   font-weight: bold;
   text-align: center;
+  text-shadow:#df7a1c;
+  text-shadow: 10px;
   background-color: #c02727;
 }
 
 h2 {
   padding: 35px;
   text-align: center;
+  text-shadow:#180c01;
+  text-shadow: 5px;
   background-color: #c02727;
 } 
 
