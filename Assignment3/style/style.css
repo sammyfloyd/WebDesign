@@ -219,7 +219,14 @@ th {
   box-shadow: 0 4px 12px #0d0838;
 }
 
-
+#bryan {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 7px solid #000000;
+}
 
 
 
