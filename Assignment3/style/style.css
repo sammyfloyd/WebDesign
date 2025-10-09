@@ -110,7 +110,11 @@ cite {
   width: 75%;
 }
 
-
+#coin {
+  background-color: none;
+  border: none;
+  width: 10%;
+}
 
 
 form {
