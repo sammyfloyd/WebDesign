@@ -210,8 +210,13 @@ th {
 }
 
 #gallery img {
-  width: 60%; 
+  width: 30%; 
   height: auto;
+}
+
+#gallery img:hover {
+  transform: scale(1.10);
+  box-shadow: 0 4px 12px #0d0838;
 }
 
 
