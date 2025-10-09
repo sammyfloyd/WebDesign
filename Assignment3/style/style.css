@@ -57,7 +57,7 @@ h1 {
   text-align: center;
   font-family: "Luckiest Guy", cursive;
   background-color: #c02727;
-  text-shadow: 3px 3px #e9822e;
+  text-shadow: 5px 5px #e9822e;
 }
 
 h2 {
@@ -66,7 +66,7 @@ h2 {
   text-shadow:#180c01;
   text-shadow: 5px;
   background-color: #c02727;
-  text-shadow: 3px 3px #180f41;
+  text-shadow: 5px 5px #180f41;
 } 
 
 h3 {
