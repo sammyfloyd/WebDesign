@@ -7,14 +7,14 @@ nav {
   text-align: center;
 }
 
-.links {
+#links {
   display: inline-block;
   margin: 0.15px;
   text-align: center;
   list-style-type: none;
 }
 
-.books {
+#books {
   text-align: center;
   list-style-type: none;
 }
@@ -39,7 +39,7 @@ video {
   background-color:#ffffff;
   border: 7px solid #000000;
   padding: 20px;
-  margin: 20px auto;
+  margin: 35px auto;
 }
 
 header {
@@ -99,6 +99,10 @@ footer {
 
 cite {
   margin: 20px auto;
+}
+
+.vol1 {
+  width: 75%;
 }
 
 
@@ -196,7 +200,7 @@ th {
 }
 
 #gallery img {
-  width: 30%; 
+  width: 50%; 
   height: auto;
 }
 
