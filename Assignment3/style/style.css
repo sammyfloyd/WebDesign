@@ -159,7 +159,7 @@ input[type="text"],
 
 button {
   margin-top: 20px;
-  background-color: #5a3e36;
+  background-color: #220f61;
   color: #ffffff;
   padding: 10px 20px;
   font-size: 1rem;
@@ -169,7 +169,7 @@ button {
 }
 
 button:hover {
-  background-color: #7a564f;
+  background-color: #3d4abe;
 }
 
 table {
