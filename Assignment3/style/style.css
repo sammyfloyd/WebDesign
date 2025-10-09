@@ -42,6 +42,11 @@ video {
   margin: 35px auto;
 }
 
+div {
+  text-align: center;
+  margin: 35px auto;
+}
+
 header {
   max-width: 50%; 
   margin: 0 auto;
