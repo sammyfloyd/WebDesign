@@ -3,12 +3,15 @@ body {
 }
 
 nav {
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+#links {
     display: inline-block;
     margin: 0.15px;
     text-align: center;
     list-style-type: none;
-    font-family: Georgia, serif;
-    text-align: center;
 }
 
 
