@@ -119,13 +119,14 @@ nav {
   background-color: #dcc4f0;
   max-width: 400px;
   margin-bottom: 20px;
-  flex: 1;
+  
 }
 
 .card-section {
   display: flex;
   gap: 20px;
   justify-content: space;
+  flex: 1;
 }
 
 
