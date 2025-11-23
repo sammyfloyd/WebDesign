@@ -1,3 +1,14 @@
+.page-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.navbar-brand {
+  position: absolute;
+  top: 8px;
+}
+
 body {
   background-color: #c1b8c8;
 }
@@ -72,7 +83,7 @@ nav {
 
 .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 10px;
     margin: auto;
     padding: 10px;
@@ -120,6 +131,57 @@ nav {
 
 
 
+.featured-section {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: auto auto;
+  gap: 20px;
+  align-items: start;
+}
+
+.right-column {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.featured-section .blog-preview {
+  max-width: 100%;
+  margin: 0;
+  padding: 10px 0;
+  gap: 10px;
+}
+
+.featured-section .blog-preview img {
+  width: 80px;
+}
+
+.featured-section .blog-text {
+font-size: 0.6rem;
+}
+
+.featured-section .post-preview {
+font-size: 0.6rem;
+line-height: 1;
+}
+
+.featured-section .post-title {
+font-size: 0.8rem;
+line-height: 1;
+}
+
+.featured-section .date {
+font-size: 0.5rem;
+}
+
+.featured-section .read-more {
+margin-top: 0px !important; 
+}
+
+
+
+
+
 .footer {
   display: flex; 
   justify-content: space-between; 
@@ -145,6 +207,8 @@ nav {
   margin-right: 10px; 
   vertical-align: middle; 
 }
+
+
 
 
 
@@ -178,9 +242,9 @@ a:focus, button:focus, input:focus {
   padding: 10px; 
   }
 
-   .card-section{
-   flex-direction: column;
-   }
+  .card-section{
+  flex-direction: column;
+  }
 }
 
 @media (min-width: 600px) and (max-width: 1024px) {
