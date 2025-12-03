@@ -27,10 +27,12 @@ nav {
 
 p {
   text-align: center;
+  margin: auto 0;
 }
 
 h1 {
   text-align: center;
+  margin: auto 0;
 }
 
 .blog-preview {
