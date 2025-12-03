@@ -25,6 +25,10 @@ nav {
     list-style-type: none;
 }
 
+#year {
+  text-align: center;
+}
+
 
 
 .blog-preview {
