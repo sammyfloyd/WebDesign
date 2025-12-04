@@ -42,6 +42,14 @@ h2 {
 
 
 
+.line-break {
+  width: 40%;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+
+
 
 .blog-preview {
     display: flex;
