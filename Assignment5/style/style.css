@@ -35,6 +35,14 @@ h1 {
   margin: auto 0;
 }
 
+h2 {
+  text-align: center;
+  margin: auto 0;
+}
+
+
+
+
 .blog-preview {
     display: flex;
     flex-direction: row;
