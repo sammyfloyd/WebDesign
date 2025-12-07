@@ -42,7 +42,12 @@ h2 {
 
 
 
-.art-updates {
+h3 {
+  text-align: center;
+  margin: auto 0;
+}
+
+.art-archive {
   text-align: center;
   margin: auto 0;
 }
@@ -94,6 +99,8 @@ h2 {
 }
 
 #openPopup {
+  text-align: center;
+  margin: auto 0;
   animation: pulse 3s ease-in-out infinite;
 }
 
