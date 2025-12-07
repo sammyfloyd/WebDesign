@@ -53,14 +53,17 @@ h4 {
 }
 
 
-.art-archive {
-  text-align: center;
-  margin: auto 0;
-}
 
 
 
 .line-break {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.audio {
   width: 30%;
   display: block;
   margin-left: auto;
