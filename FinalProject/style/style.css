@@ -364,6 +364,7 @@ a:focus, button:focus, input:focus {
   .card-section{
   flex-direction: column;
   }
+
 }
 
 @media (min-width: 600px) and (max-width: 1024px) {
